@@ -1,0 +1,6 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaasq5pm4c7kmoif6cy4riwzt7dircliizx4x4srg5jexhk4ptkowca
+fingerprint=20:04:9d:d4:56:34:51:71:23:f9:a7:d5:9c:1b:ab:a3
+tenancy=ocid1.tenancy.oc1..aaaaaaaaclvueknprvsdpkv4xepasa3jrqnm5w72pbbej4ucaujpvzjbkohq
+region=uk-london-1
+key_file=C:\Users\Sam\Downloads\oci_private_key.pem # TODO
